@@ -1,3 +1,6 @@
+> Portfolio project by Dorsa Norouzi.  
+> © 2026 Dorsa Norouzi. All rights reserved.
+
 # semantic-segmentation-unet-pytorch
 Semantic segmentation of synthetic geometric objects using a U-Net-style CNN in PyTorch.
 
@@ -180,3 +183,14 @@ semantic-segmentation-unet-pytorch/
 │
 └── docs/
     └── semantic_segmentation_presentation.pdf
+
+## Author
+
+Dorsa Norouzi  
+GitHub: [DorsaNzy](https://github.com/DorsaNzy)
+
+## Copyright
+
+© 2026 Dorsa Norouzi. All rights reserved.
+
+This repository is shared as a portfolio project to demonstrate practical experience in semantic segmentation, PyTorch, CNN-based image processing, model evaluation, and data augmentation.
