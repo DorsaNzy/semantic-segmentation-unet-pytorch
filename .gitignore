@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project-specific files
+data/
+models/
+checkpoints/
+outputs/
+results/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.h5
+
+# Large compressed files
+*.zip
+*.tar
+*.tar.gz
+*.rar
